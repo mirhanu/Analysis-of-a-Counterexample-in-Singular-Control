@@ -1,0 +1,1 @@
+# Verification-of-a-counterexample-given-to-junction-points-optimality-conditions-in-singular-control
