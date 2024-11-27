@@ -8,7 +8,7 @@ The code investigates the counterexample proposed in the paper **"Junction Point
 - $`\alpha^{(m)}(0)`$ and $`\beta^{(m)}(0)`$ for $`m = 0, 1, 2`$
 - $`u_s^{(m)}(0)`$ for $`m = 0, 1, 2, 3`$
 
-and compares them to the values provided in the paper. While the calculated values match those reported, the analysis highlights unresolved questions regarding the existence of $`u_s(0)`$ and its derivatives, which are necessary to conclusively validate the counterexample.
+and compares them to the values reported in the paper. While the computed values align with those provided in the original work, additional questions about the existence of $`u_s(0)`$ and its derivatives remain unresolved. These discussions are addressed in the companion paper "On Mcdanell's Conjecture".
 
 ## Usage
 
