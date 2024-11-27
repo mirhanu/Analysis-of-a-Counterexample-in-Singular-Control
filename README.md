@@ -1,15 +1,14 @@
-# Verification-of-a-counterexample-given-to-junction-points-optimality-conditions-in-singular-control
+# Analysis of a Counterexample in Singular Control
 
 This repository contains the MATLAB script used as a companion to the research paper **"On Mcdanell's Conjecture"**. 
 
 ## Description
 
-The code verifies that the counterexample given in the paper **"Junction Points in Singular Optimal Control"** is indeed a valid counterexample using MATLAB Symbolic Toolbox. It calculates the values of:
-
+The code investigates the counterexample proposed in the paper **"Junction Points in Singular Optimal Control"** using the MATLAB Symbolic Toolbox. It calculates the values of:
 - $`\alpha^{(m)}(0)`$ and $`\beta^{(m)}(0)`$ for $`m = 0, 1, 2`$
 - $`u_s^{(m)}(0)`$ for $`m = 0, 1, 2, 3`$
 
-and compares them to the values provided in the paper.
+and compares them to the values provided in the paper. While the calculated values match those reported, the analysis highlights unresolved questions regarding the existence of $`u_s(0)`$ and its derivatives, which are necessary to conclusively validate the counterexample.
 
 ## Usage
 
