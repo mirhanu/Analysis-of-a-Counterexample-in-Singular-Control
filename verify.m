@@ -1,7 +1,6 @@
 % =======================================================================
 % Part of the Research for: "On McDanell’s Conjecture"
 % If you use this code, please cite the corresponding paper.
-% Author: Mirhan Urkmez
 % Date: 24/11/2024
 % Description: 
 % This script is a companion to the paper "Junction Points in Singular 
